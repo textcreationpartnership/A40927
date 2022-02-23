@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cesars penny to be paid by Cesars friends</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40927</idno>
+            <idno type="STC">Wing F473</idno>
+            <idno type="STC">ESTC R215407</idno>
+            <idno type="EEBO-CITATION">99827297</idno>
+            <idno type="PROQUEST">99827297</idno>
+            <idno type="VID">31715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1907:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cesars penny to be paid by Cesars friends</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>By Richard Farnworth.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31715:1"/>
+            <pb facs="tcp:31715:1" rendition="simple:additions"/>
+            <head>
+               <hi>CESARS</hi> Penny to be paid by <hi>CESARS</hi> Friends.</head>
+            <p>
+               <hi>AND Jeſus beheld them,</hi> and ſaid, <hi>What is this then that is written? The ſtone which the builders rejected, the ſame is become the head of the Corner, Whoſoever ſhall fall upon that ſtone, ſhall be broken; but on whomſoever it ſhall fall, it will grinde him to powder,</hi> Luke 20.17, 18. <hi>verſ.</hi>
+            </p>
+            <p>
+               <hi>Then the chief Prieſts and the Scribes, the ſame hour ſought to lay hands on him, but they feared the people, for they had perceived that he had ſpoken this pa<g ref="char:EOLhyphen"/>rable againſt, them. And they watched him, and ſent forth ſpies, which ſhould fain themſelves juſt men, that they might take hold on his words, that ſo they might deliver him unto the power and authority of the Governour,</hi> v. 19, 20, 21.</p>
+            <p>And out of their ſubtilty, <hi>They asked him, ſaying, Maſter, we know that thou ſayeſt and teacheſt rightly, neither reſpecteſt thou the perſon of any; but teach<g ref="char:EOLhyphen"/>eſt the way of God truly. Is it lawful for us to give Tribute unto</hi> Ceſar <hi>or no?</hi> verſ. 21.22.</p>
+            <p>But <hi>Ieſus</hi> perceived the ſubtilty of thoſe ſpies which the chief Prieſts and the ſcribes had ſent out, who feined themſelves juſt men, &amp; came to him to ſee if they could bring him under the power of their Law, that they might have wherewithal to entrap him; for they could not enſnare him in his words that he ſpoke to them in his doctrine; therefore the ſubtilty of the Serpent cauſed them to flatter <hi>Ieſus,</hi> and called him Maſter. And <hi>ſecondly,</hi> that they knew he taught the way of God truly, that could not be denyed by them. And <hi>thirdly,</hi> that he regarded no mans perſon. Then <hi>fourthly,</hi> they put forth their queſtion as a caſe of ſcruple to him, Tell us ſay they, <hi>Whether is it lawful for us to give tribute unto</hi> Ceſar <hi>or no?</hi>
+            </p>
+            <p>For <hi>Ceſar</hi> was their governour, and they were under his government, and they thought thereby to enſnare him in his words, if he did but give them counſel againſt him, (<hi>Ceſar</hi> their Governour.)</p>
+            <p>Then the wiſdome of God fore-ſaw the intent of their minds, &amp; their deceitful hearts, how they lay in wait to enſnare the innocent, to bring him under their law, that they might have had him before <hi>Ceſar</hi> their <hi>Go<g ref="char:EOLhyphen"/>vernour;</hi> for that was their deſire, and the deſire of the chief Prieſts and Scribes to have got ſomething againſt him, thereby that their Law might have taken hold on him, becauſe that they could not tax him in his Do<g ref="char:EOLhyphen"/>ctrine, &amp; were afraid to do any thing at him then becauſe of the people: and ſo were brought to confeſs the truth in their words; &amp; ſaid that he had taught they way of God truly, &amp; that he regarded no mans perſons; and ſub<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly came they to tempt the Lord <hi>Ieſus Chriſt</hi> with that earthly Queſtion, that they might have had wherewithal to accuſe him.</p>
+            <pb n="2" facs="tcp:31715:2" rendition="simple:additions"/>
+            <p>But the Lord fruſtrated their ends, and the wickedneſs of their deſign: and then ſaid <hi>Jeſus</hi> unto them (perceiving their craftineſs) <hi>Why do ye tempt me?</hi> Here was their ſubtilty and policy diſcovered by that bleſſed Spirit, and laid open unto their ſhame; for ſaith he, <hi>Shew me a penny: whoſe Image and Superſcription hath it? they anſwered and ſaid,</hi> Ceſars, Luke 20, 23, 24.</p>
+            <p>
+               <hi>And he ſaid unto them, Render therefore unto</hi> Ceſar <hi>the things that are</hi> Ce<g ref="char:EOLhyphen"/>ſars, <hi>and unto God the things which be Gods; And they could not take hold of his words before the people, and they marvelled at his words and held their peace, Luke</hi> 20.25, 26. And ſo the tempters were diſcovered, their ends fruſtra<g ref="char:EOLhyphen"/>ted, and the innocent by wiſdom preſerved out of the enemies hands at that time.</p>
+            <p>But now in this generation the ſame ſubtil ſpirits take the ſame thing to accuſe the innocent withall, &amp; ſay, <hi>Render to</hi> Ceſar <hi>the things which are</hi> Ceſars; &amp; would have the friends of Chriſt to do that which is contra<g ref="char:EOLhyphen"/>ry to Chriſts mind; for they are under Chriſts command, and therefore under his Law and Government, &amp; are to be ſubject to him, &amp; obey his Fathers will, that they may <hi>give unto God the things that are Gods,</hi> that he may be honoured by them; for Chriſt himſelf did not regard <hi>Ceſars</hi> per<g ref="char:EOLhyphen"/>ſon, as they ſaid that were ſent unto him, <hi>thou regardeſt no mans perſon,</hi> and he that is Chriſts followeth his example, &amp; honoureth thoſe that are in him, and regardeth him above all, knowing this, that he that reſpects perſons commits ſin, and he that commits ſin tranſgreſſeth the Law, and he that tranſgreſſeth the Law, muſt appear before the Governour, there to anſwer before <hi>Sions</hi> King, and ſuffer puniſhment for every tranſgreſ<g ref="char:EOLhyphen"/>ſion; <hi>For the Lord is of purer eyes than to behold iniquity, and he will not ſuffer ſin to go unpuniſhed.</hi> Then,</p>
+            <p>Let me ask you one queſtion? you that are Tempters as the ſpies were who fained themſelves juſt men, as you do, who cryeth, out unto the in<g ref="char:EOLhyphen"/>nocent, to give unto <hi>Ceſar</hi> the things that are <hi>Ceſars;</hi> was it the friends of Chriſt that ſhewed him the Image and Superſcription, or was it the ene<g ref="char:EOLhyphen"/>mies to Chriſt, that came under the pretence of friends to have enſnared him, that he ſpoke too, and ſaid, <hi>Give unto</hi> Ceſar <hi>the things that are</hi> Ceſars? Anſwer me this, and tell me then if it were ever required of the friends of Chriſt, to do any ſuch thing, yea or no?</p>
+            <p>And if not, why do you require it of them? do you ſet your ſelves in <hi>Ce<g ref="char:EOLhyphen"/>ſars</hi> room, was not he an enemie to Chriſt? and was it not <hi>Ceſars</hi> Govern<g ref="char:EOLhyphen"/>ment that they came to have brought him under, who by the wiſdom of God was preſerved? Is there any <hi>Ceſars</hi> in Chriſts Kingdom amongſt the Saints, or are they not in the <hi>Gentiles</hi> Court? what ſaith Chriſt in <hi>Mark</hi> 10. to his Diſciples and Friends; <hi>Ye know,</hi> ſaith he, <hi>that they which are acc<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ted
+<pb n="4" facs="tcp:31715:2"/>to rule over the</hi> Gentiles, <hi>exerciſe Lord-ſhip over them, and their great ones exerciſe Authority upon them;</hi> but, ſaith Chriſt, <hi>ſo ſhall it not be amongſt you,</hi> Mark 10.42, 43.</p>
+            <p>They that are <hi>Ceſars</hi> friends giveth <hi>Ceſar</hi> his Penny: but the friends of Chriſt are compeld alſo to do the ſame; for there are now many ſpies, who faineth themſelves juſt men, and ſeek to inſnare the innocent,<note place="margin">
+                  <hi>Rev.</hi> 15.3, <hi>Heb.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 1 <hi>Joh</hi> 3.1. <hi>Re.</hi> 1. 1 to 5</note> and bring them before <hi>Ceſar,</hi> and would have them to ſtoop under him but Chriſt is born King of the new converted <hi>Jews,</hi> &amp; all that will not that he ſhall reign over them, muſt be brought before him that he may ſlay them; for he is the expreſs image &amp; brightneſſe of his Fathers glory, and the ſaints penny that they are to give unto their Lord and governour, who are not of this world, but of God, out of the world, born again, and redeemed by the bloud of the Lamb from under <hi>Ceſar,</hi> to ſing all Honour and Glory, and thanks be unto <hi>Sions</hi> King, now and for evermore, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>Hallelujah to the Higheſt.</hi>
+            </p>
+            <div type="part">
+               <head>Civil Reſpect.</head>
+               <list>
+                  <item>FIrſt, There is in this generation a ſort of proud people, called by the name of <hi>Gentlemen</hi> and <hi>Gentlewomen;</hi>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 3. <hi>Iſa.</hi> 2.7, 8 to 12.</note> but they want the Nature of their name, &amp; are haſty, cholerick, proud, lofty-minded people: <hi>But the lof<g ref="char:EOLhyphen"/>tineſs of man ſhall be brought down, and his haughtineſs laid low, that the Lord alone may be exalted, Iſa.</hi> 2. It is the children of the light and Saints of the moſt high God, though poor in ſpirit, that have right to the Kingdom of God, and are gentle, &amp; meek, and long-ſuffering,<note place="margin">
+                        <hi>Mat.</hi> 5.2, 3. <hi>Gal.</hi> 5.22. to 25. 2 <hi>Pet.</hi> 1.6, 7 8. <hi>Col.</hi> 3. 12. to 15, v. <hi>Eph.</hi> 4. 17, 18. 19. <hi>Eph.</hi> 5.11. <hi>Prov.</hi> 16.18, <hi>Jer.</hi> 13.17. <hi>Joh.</hi> 5.42, 43, 44. <hi>Ju.</hi> 16.</note> kind-hearted and low<g ref="char:EOLhyphen"/>ly-minded; the other proud people have ſtoln the name of <hi>Gentlemen</hi> and <hi>Gentlewomen,</hi> but they are not in the nature; for it is proper to the Saints alone, and they are gentle &amp; meek, and of quiet diſpoſitions, and are in order to the Spirit of Truth; But thoſe lofty, proud, haſty, ſcornful, high-minded people, called <hi>Gentlemen</hi> and <hi>Gentlewomen,</hi> they are in the fleſh, and the luſt, and are diſorderly, contrary to the Spirit of truth; and <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> they may well be called that name, and their nature is very agreea<g ref="char:EOLhyphen"/>ble, pride, covetouſneſs, the love and honour of the world, having their underſtandings darkned, and being alienated from the life of Chriſt, who was, and is gentle, and meek, Lamb-like, and ſuffereth the contradiction of ſinners, I <hi>Pet.</hi> 4.</item>
+                  <item>
+                     <hi>Secondly,</hi> Theſe lofty proud people cryeth out, now that their pride and vanity is diſcovered, and declared againſt by the Spirit of truth, and they are very unwilling to hear of the downfal of it, but pride goeth be<g ref="char:EOLhyphen"/>fore deſtruction, &amp; they ſhall weep in ſecret, for their pride and covetouſ<g ref="char:EOLhyphen"/>neſs is idolatry, and draweth their hearts from the Lord; and how can they believe that ſeek honour one of another, and not the honour that cometh of God; ſo ſhewing themſelves to be uncivil, glorying in pride,
+<pb n="2" facs="tcp:31715:3" rendition="simple:additions"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:31715:3"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:31715:4"/>riches and the wiſdom of the fleſh, and reſpecting men for their greatnes in the earth, having mens perſons in admiration becauſe of advantage, diſreſpecting and not regarding the commands of the Lord.</item>
+                  <item>
+                     <hi>Thirdly,</hi> Yet notwithſtanding they cry our againſt the people of God, who regard the commands of God, and teſtifieth againſt pride, cove<g ref="char:EOLhyphen"/>touſneſs, the love and honour of the World, in obedience to the Lord Jeſus Chriſt, whoſe Kingdom is not of this world.</item>
+                  <item>
+                     <hi>Fourthly,</hi> But theſe proud, high and tall <hi>Cedars</hi> cryeth out of that, and ſaith, <hi>that they ſhould ſhew them ſome civil reſpect, not knowning the Nature of the name;</hi> for civil reſpect is a juſt divine Right, and ſo to do as they would be done by, according to the ſight of Chriſt, and the righteous Law of God, and not to flatter people in their ſins, but to ſpeak plainly according to the Word of the Lord, and <hi>Wo to the Crown of Pride, Iſa.</hi> 28.1.</item>
+               </list>
+               <closer>
+                  <signed>R. Farnworth.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>What it is to give offence, and what it is not, and who are offended, and by whom now in theſe latter dayes that Chriſt is appearing in ſpirit.</head>
+               <p>
+                  <hi>GIve no offence to the</hi> Jew,<note place="margin">1. <hi>Cor.</hi> 10.33. <hi>Rom.</hi> 2 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.29.</note> 
+                  <hi>nor to the</hi> Gentile, <hi>nor to the Church of God, and let all things be done decently and in Order;</hi> Thus ſaith the Apoſtle <hi>Paul,</hi> the man of God, and Miniſter of the Lord Jeſus Chriſt, and ſo ſay I.</p>
+               <p>Now <hi>he is not a Jew that is one outwardly,</hi> whoſe praiſe is of men: <hi>But he is a Jew that is one inwardly,</hi> whoſe praiſe is of God; but the <hi>Jews</hi> out<g ref="char:EOLhyphen"/>wardly who ſeek the praiſe of men, they cry out againſt that which was the Apoſtles practiſe and order, and calleth it uncivil, diſorderly and raiſing of tumults, not being acquainted with the guidings and leadings of the Spirit of truth.</p>
+               <p>For had they looked carnally at things, &amp; the leadings out of the Apo<g ref="char:EOLhyphen"/>ſtles at that time, they might have ſaid that he ſaid, give no offence in any thing, <hi>neither to the</hi> Jew, <hi>nor to the</hi> Gentile, and who did offend the <hi>Jewes</hi> more then he did in oppoſing them in their way of worſhip, &amp; they were in great enmity againſt him for it; for they were informed of him, that he taught al the <hi>Jews</hi> that were amongſt the <hi>Gentiles</hi> to forſake <hi>Moſes,</hi> ſaying, <hi>That they might not circumciſe their children, neither walk after their cuſtoms, Acts</hi> 21, 21. And what was more offenſive to the <hi>Jews</hi> than this was; yet he ſaid, <hi>give no offence unto the</hi> Jews. Now carnal people in this ge<g ref="char:EOLhyphen"/>neration ſay, <hi>It is an offence to them that their Ordinances</hi> (as they call them) <hi>is cryed down,</hi> as ſprinkling of Infants, which they have no Scrip<g ref="char:EOLhyphen"/>ture for,<note place="margin">
+                     <hi>Acts</hi> 20.28.</note> &amp; for holding up a <hi>Steeple-houſe,</hi> which they cal a <hi>Church,</hi> and the Church is in God the Father of our <hi>Lord Jeſus Chriſt,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Theſ.</hi> 1.1. And Chriſt came to redeem his Church with his blood, and not a Steeple-houſe,
+<pb n="5" facs="tcp:31715:4"/>which they call a Church;<note place="margin">1 <hi>Pet.</hi> 2.5. <hi>Eph.</hi> 1.22, 23. <hi>Rev.</hi> 13 16, 17, 18.</note> for the Curch is made all of living ſtones, elect and precious, and Chriſt is the Head of his Church, and not the Head of a Steeple-houſe; and this may be offenſive to ſome, to cal it a Steeple-houſe and ſprinkling of Infants to be a mark of the Beaſt, as <hi>Iohn</hi> ſaith, <hi>Rev.</hi> 13.16, 17, 18. ver.</p>
+               <p>As it was an offence to the <hi>Iewes</hi> that <hi>Paul</hi> ſhould ſay, that Circumciſion, and thoſe things which the <hi>Iewes</hi> had been formerly commanded by God to obſerve, were then of no account with God, for the ſubſtance of all Types, Shadows and Figures were then come, which was <hi>Jeſus Chriſt,</hi>
+                  <note place="margin">2 <hi>Cor.</hi> 4 5, <hi>to</hi> 11.</note> which he then preached and held forth, 2 <hi>Cor.</hi> 4.5, 6, 7.</p>
+               <p>
+                  <hi>Paul</hi> ſaid, <hi>Give no offence to the</hi> Jewes, <hi>nor to the</hi> Gentiles, and he did ex<g ref="char:EOLhyphen"/>ceedingly offend them in declaring againſt their obſervations,<note place="margin">
+                     <hi>Acts</hi> 21.28. <hi>to</hi> 31.</note> &amp; in going into the Temple, inſomuch that they cryed out, <hi>Men of</hi> Iſrael, <hi>help: This is the man that teacheth all men every where againſt the people, and the Law, and this place:</hi> that was their Temple, <hi>and all the City was moved, and the people ran together: and the took</hi> Paul, <hi>and they draw him out of the Temple, and forthwith the doors were ſhut,</hi> &amp;c. <hi>Acts</hi> 21.28, 29, 30, 31. to the end.</p>
+               <p>In this generation, natural &amp; carnal people, <hi>Iews</hi> in knowledge, whoſe praiſe is of men and not of God, they cry out of the Apoſtles order, and ſay, it is diſorderly to come into their Temple, or Steeple-houſe, which they call a Church; and if any come in thither to teſtifie againſt their deceits, and falſe worſhips as <hi>Paul</hi> did, they are moved with envie as the <hi>Iewes</hi> were; and cry out help, or take him away, he is a turbulent fellow, and ſaith, that it doth diſturb them: and the deceit will be ready to take <hi>Pauls</hi> words, and ſay you ought to <hi>give no offence to the</hi> Jew, <hi>nor to the</hi> Gen<g ref="char:EOLhyphen"/>tile, <hi>&amp;c.</hi> And they call that offenſive which were the Apoſtles practiſes, as it is left upon Record.</p>
+               <p>For he went into their Synagogues, &amp; three Sabbath dayes together reaſoned with them, <hi>Acts</hi> 17.1, 2. He did not go to ſtand up in a Pulpit as the Prieſts do now, but he went in amongſt them,<note place="margin">
+                     <hi>Act</hi> 19.1, 2.</note> as if one might come into the Steeple-houſe &amp; ſit him down, &amp; afterwards ſpeak to the Prieſt that ſtands up in the Pulpit, to declare againſt thoſe things which he pra<g ref="char:EOLhyphen"/>ctiſeth contrary to the Scriptures, Chriſt &amp; his Apoſtles; but they cry a<g ref="char:EOLhyphen"/>way with ſuch a one, he doth diſturb us, &amp;c. &amp; ſaith, it is diſorderly or un<g ref="char:EOLhyphen"/>mannerly, and it was the Apoſtles manner ſo to do Read <hi>Acts</hi> 17. and ſee <hi>Acts</hi> 13. <hi>Now when</hi> Paul <hi>and his Company were come from</hi> Paphos, <hi>they came to</hi> Perga <hi>in</hi> Pamphilia; <hi>and</hi> John <hi>departed from them,</hi>
+                  <note place="margin">Acts <hi>13.13.</hi> to 16. <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>and returned to</hi> Jeruſa<g ref="char:EOLhyphen"/>lem; <hi>but they came to</hi> Antioch <hi>in</hi> Piſidia, <hi>and went into the Synagogue on the Sabbath day, and ſat down; and after the reading of the Law and the Prophets, they had freedom to ſpeak. And</hi> Paul <hi>ſtood up, and beckning with his hand ſaid,
+<pb n="6" facs="tcp:31715:5"/>Men of</hi> Iſrael, <hi>and ye that fear God give audience,</hi> &amp;c. <hi>Acts</hi> 13.13, 14, 15, 16. to the end.</p>
+               <p>And in this generation, it is counted diſorderly, unmannerly, &amp; tumul<g ref="char:EOLhyphen"/>tuous to follow the Apoſtles order, and rule, and manner, as it was to go into the Synagogues to diſpute with them, and lay open their deceits; ſo you cal it uncivil &amp; turbulent for to ſpeak in your Markets, if any be mo<g ref="char:EOLhyphen"/>ved by the Lord ſo to do, and ſay that it is offenſive; and the Apoſtle who ſaid, <hi>Give no offence to the</hi> Jews, <hi>nor to the</hi> Gentiles, did not count ſuch things offenſive, as to reaſon with them in their Synagogues, &amp; to diſpute daily with them in their markets, though they took it as an offence done to them; yet it was according to the workings &amp; leadings of the Spirit of Truth then,<note place="margin">
+                     <hi>Acts</hi> 17.16, 17, v.</note> and it is the ſame now: <hi>For</hi> Paul <hi>whilſt he waited at</hi> Athens <hi>his ſpirit was troubled within him, to ſee their falſe waies of worſhip; therefore diſputed he in the Synagogue with the</hi> Jewes, <hi>and with the devout perſons, and in the Market daily with them that met him,</hi> Acts 17.16, 17.</p>
+               <p>
+                  <hi>And certain of the</hi> Philoſophers <hi>of the</hi> Epicurians, <hi>&amp; of the</hi> Stoicks, <hi>encoun<g ref="char:EOLhyphen"/>tred him, and ſaid, What will this babler ſay?</hi> Then they called Truth babling, and the wiſeſt of men in their natural learning do ſo now, &amp; they ſaid, that he ſeemed to be a ſetter forth of ſtrange Gods; therefore they took him,<note place="margin">
+                     <hi>Acts.</hi> 17.18.19, 20. <hi>Acts,</hi> 17.32, 33.</note> that they might know, as they ſaid, what the new do<g ref="char:EOLhyphen"/>ctrine meant: and as it was then, ſo it is now, <hi>Acts</hi> 17.18, 19, 20. And they ſaid, that he brought many ſtrange things to their eares, and when they had heard him ſpeak, ſome mocked, and others ſaid, we will hear thee a<g ref="char:EOLhyphen"/>gain, <hi>Acts</hi> 17.32, 33, 34.</p>
+               <p>And at <hi>Corinth Paul</hi> wrought on his Trade, and was with <hi>Priſcilla</hi> and <hi>Aquila</hi> there; for <hi>Claudius</hi> had commanded all the <hi>Jews</hi> to depart from <hi>Rome:</hi> and whilſt <hi>Paul</hi> was at <hi>Corinth,</hi> he went into the Synagogue, and reaſoned every Sabbath day, perſwading both the <hi>Jewes</hi> and the <hi>Greeks.</hi> And as <hi>Paul</hi> teſtifieth by the Spirit, to the <hi>Jewes,</hi> and witneſſed the truth of God,<note place="margin">
+                     <hi>Acts</hi> 18.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2, 3, 4, 5, 6.</note> contrary to their carnal reaſon; then they were ſo moved and of<g ref="char:EOLhyphen"/>fended at him, that they oppoſed themſelves, and blaſphemed; and when they did ſo, he ſhook his rayment, and went away from them, <hi>Acts</hi> 18.1, 2, 3, 4, 5, 6, ver.</p>
+               <p>And now they cry out in this generation as they did then,<note place="margin">
+                     <hi>John.</hi> 1.5.9. <hi>John</hi> 8.12. <hi>Iſa.</hi> 54.13. <hi>Jer.</hi> 31.31. <hi>to</hi> 34.</note> if any go into their Steeple-houſes to ſpeak the Truth of God, &amp; teſtifie by the Spirit againſt their deceits, and hold forth Chriſt the light of the world, &amp; the way to the Father, to God alone Teacher of his people, according to his promiſes both by the Prophets &amp; Apoſtles, as they are left upon record; then they cry out as the <hi>Jewes</hi> did, and ſay, they are againſt Church and Church Ordinances, and ſo incenſe the people, &amp; ſtir them up in a great
+<pb n="7" facs="tcp:31715:5"/>rage, as it was in the time of the Apoſtles,<note place="margin">
+                     <hi>Ezek.</hi> 34.11. <hi>to</hi> 16. <hi>Joh.</hi> 6.45. <hi>Heb.</hi> 8.10, 11.</note> 
+                  <hi>Acts</hi> 19. and are ready to ſet all on an uproar, as they did; and cry out againſt thoſe that follow the Apoſtles rule, order and manner; and ſay they, what uncivil &amp; unman<g ref="char:EOLhyphen"/>nerly people and diſturbers of the peace are theſe; and then they beat them, and hale them before the outward Authority, and ſtocks and im<g ref="char:EOLhyphen"/>priſon them, as the Apoſtles were, <hi>Acts</hi> 4 to <hi>v.</hi> 21. &amp; <hi>Acts</hi> 5.17, 18. <hi>Acts</hi> 5.27, 28. to the 36.</p>
+               <p>Now in this generation the <hi>Jews</hi> in knowledge &amp; outward profeſſion cry out againſt the children of Light and ſervants of the Lord,<note place="margin">1 <hi>John</hi> 2.20, 27. <hi>Acts</hi> 4 to 21. <hi>Acts</hi> 5 17, 18. <hi>Acts</hi> 5 27.28.</note> that te<g ref="char:EOLhyphen"/>ſtifie againſt the deceits of the world, &amp; calleth them turbulent fellows; ſo did the <hi>Jews</hi> by <hi>Paul,</hi> and they call that way of Truth which differeth from the worlds minds, and is contrary to carnal reaſon &amp; fleſhly wiſ<g ref="char:EOLhyphen"/>dom, they call it Herefie; ſo did the <hi>Jews</hi> by <hi>Paul;</hi> but ſaith he, <hi>In that way which ye call hereſie do I worſhip the God of my Fathers: And</hi> Ananias <hi>the high Prieſt and the Elders with a certain Oratour who informed the Governour a<g ref="char:EOLhyphen"/>gainſt</hi> Paul, <hi>ſaid, that he was a peſtilent Fellow, and a mover of ſedition amongſt all the</hi> Jews <hi>throughout the World, and a ring-leader of the Sect of the</hi> Naza<g ref="char:EOLhyphen"/>renes, <hi>who alſo have gone about to prophane the Temple, whom we tooke and would have judged according to our Law,</hi> &amp;c. <hi>Acts</hi> 24.1, 2, 3, 4, 5, 6. and in <hi>Acts</hi> 28. the <hi>Jews</hi> did deſire to hear of <hi>Paul,</hi> what he thought con<g ref="char:EOLhyphen"/>cerning that Sect, as they called it, which was the life and power of Truth held forth by him? for ſay they to him, <hi>As concerning this Sect, we know that every where it is ſpoken againſt.</hi> Acts 28.22.</p>
+               <p>And yet he ſaid, <hi>give no offence in any thing;</hi>
+                  <note place="margin">
+                     <hi>Act,</hi> 24. 1 <hi>to</hi> 6. <hi>Act.</hi> 28 22.</note> now they were mightily offended with his manner of life and practice; for it was contrary to the world, and ſo they ſaid that he ſought to turn the world up-ſide down: and ſo they called the Truth turbulent, and him peſtilent, and the Truth a Sect, and him a ring-leader of the Sect of the <hi>Nazarenes.</hi>
+               </p>
+               <p>Now ſay they the Sect of the <hi>Quakers,</hi> as they call it, is the peſtilenteſt Sect, and they are the turbulenteſt people that ever was, crying out both in Churches and in Markets, and ſo the Truth doth trouble the deceit now as it did then. And <hi>Paul</hi> who ſaid, <hi>give no offence,</hi> he did offend the deceit moſt, and ſaid, <hi>be not conformed like the World, but the transformed by the renewing of your mind,</hi>
+                  <note place="margin">
+                     <hi>Ro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 12.1, 2. <hi>Epheſ.</hi> 5.11.</note> 
+                  <hi>and have no fellowſhip with the unfruitful works of darkneſse, but rather reprove them, Epheſ.</hi> 5.11. And this is orderly and according to the ſpirit of Truth, <hi>Rom.</hi> 12. 1, 2.</p>
+               <p>But in this generation the deceit crieth out for order, when they live in diſorder, and are in the offence; for he that is proud is out of the order and government of the righteous Spirit of Truth, &amp; is an offender, and tranſgreſſeth the righteous Law of God, and he that is covetous is diſor<g ref="char:EOLhyphen"/>derly,
+<pb n="8" facs="tcp:31715:6"/>and an offender, tranſgreſſing the righteous law of God: and he that is a drunkard is diſorderly, &amp; is an offender, tranſgreſſing the righte<g ref="char:EOLhyphen"/>ous Law of God; and he that is a ſwearer is diſorderly, and tranſgreſſeth the Law of God, and doth greatly offend &amp; grieve the righteous Spirit of the Lord; &amp; ſuch as theſe are not cried out againſt, nor reſtrained from their ungodlineſs; neither by the <hi>Iews</hi> in knowledge, nor Prieſt nor Pro<g ref="char:EOLhyphen"/>feſſors of theſe times, but are encouraged in their wickedneſs; and that is counted diſorderly, to declare againſt pride, drunkennes, lying, ſwearing and unjuſt dealing openly in Steeple-houſes &amp; Markets; but the Apoſtle ſaith,<note place="margin">1 <hi>Cor.</hi> 6 9.10. <hi>Gal.</hi> 5.19, 20, 21. <hi>Rom.</hi> 1 28. <hi>to the end Rom.</hi> 2 8, 9. 1 <hi>Theſ.</hi> 1.8. <hi>Re.</hi> 20.1.15. <hi>Re</hi> 21.27. <hi>Re.</hi> 22 11. to 16.</note> 
+                  <hi>that the unrighteous and ſuch as theſe ſhall not inherit the Kingdom of God,</hi> 1 <hi>Cor.</hi> 6.9, 10. <hi>Gal.</hi> 5.19, 20, 21. And becauſe they do not like to retain God in their knowledge, <hi>therefore doth he give them over to a reprobate mind, to do thoſe things that are not convenient, being filled with all unrighteouſneſs, fornication, wickedneſs, covetouſneſs, maliciouſneſs, full of envy, murder, de<g ref="char:EOLhyphen"/>bate, deceit, malignity, whiſperers, back-biters, haters of God, deſpightful, proud, boaſters, inventers of evil things,</hi> &amp;c. <hi>Rom.</hi> 28, 29, 30. to the end.</p>
+               <p>But ſuch ſhall not inherit the Kingdom of God, but be rewarded ac<g ref="char:EOLhyphen"/>cording to their deeds, tribulation &amp; anguiſh, indignation, wrath, is the portion of all ſuch, <hi>Rom.</hi> 2.8, 9. &amp; none ſhall enter into the Kingdom of Heaven, whoſe names are not found written in the Lambs book of life, ſo ſaith Jeſus Chriſt, and he hath ſent his Angel to teſtifie the ſame, <hi>Rev.</hi> 20.14, 15. <hi>Rev.</hi> 21.21. <hi>Rev.</hi> 22. from 11, to 16 verſes.</p>
+               <p>The Apoſtles order is now by the Profeſſors of theſe times called diſor<g ref="char:EOLhyphen"/>derly, &amp; the Apoſtles manners is by them couunted unmanerly; therefore</p>
+               <p>To give no occaſion of offence is to act righteouſly in all things, as thou art convinced in thy conſcience according to the Law of God, and not to do any evil, nor ſpeak any guile, that thou mayeſt be without guile before the Throne of God, <hi>Rev.</hi> 14.4, 5.</p>
+               <p>Now to act righteouſly, and to ſpeak in plainneſs of ſpeech, it doth of<g ref="char:EOLhyphen"/>fend the world, and the generation of evil doers; and to uſe the word <hi>Thou</hi> is hard to be born by the proud ſelf-ſeeking people, although it be the word of the Lord, and hard to be uſed in reality without reſpect to perſons, but by the honeſt hearted who love God above all, 1 <hi>Joh.</hi> 5.3, 4.</p>
+               <p>Now thou that art convinced of the truth of God in thy conſcience, by the light of Chriſt, &amp; doſt not act according to that in thy conſcience, thou doſt offend and grieve that which is pure of God in thee; and if thou wouldſt ſeek to find out a way by thy reaſon; to flatter with the Worlds minds, rather than loſe their love &amp; favour for thy one ends, &amp; diſobey that in thy conſcience, thou offends the truth in thy ſelf, &amp; the truth in thy ſelf, &amp; the truth in others ſuffers by thee, then wo will follow after.</p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:31715:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
